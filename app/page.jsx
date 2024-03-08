@@ -7,7 +7,7 @@ export default function page() {
 
   return (
     <div className="h-screen flex justify-center items-center flex-col gap-[10px]">
-      <h1 className='font-bold text-3xl text-[#0F172A]'>Welcome Maleesha X</h1>
+      <h1 className='font-bold text-3xl text-[#0F172A]'>Welcome ICJAY</h1>
       <button onClick={() => {
         router.push("/dashboard")
       }}>Go to dashboard</button>
