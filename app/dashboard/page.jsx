@@ -32,7 +32,7 @@ export default function Dashboard() {
   return (
     <div className="max-w-7xl mx-auto">
       <div className="my-[10px] font-bold text-center">
-        <p>Welcome Maleesha</p>
+        <p>Welcome Chamikara</p>
         <p>Dashboard</p>
       </div>
       <Header
